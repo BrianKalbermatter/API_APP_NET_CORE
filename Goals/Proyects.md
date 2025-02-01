@@ -87,3 +87,6 @@ Solicita una cadena de texto al usuario y cuenta vocales contiene.
 # Ejercicio 15 - Juego de adivinar palabra.
 - Objetivo:
     Crea un programa donde el usuario intente adivinar una palabra secreta predefinida. Dale pistas si falla.
+
+    synthwave 84 eneble neon dreams
+    
